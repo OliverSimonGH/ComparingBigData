@@ -1,4 +1,4 @@
-# ComparingBigData
+# Comparing Big Data
 
 This was coded to be educational for me.
 
